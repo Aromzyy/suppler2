@@ -1,0 +1,82 @@
+/* Add this CSS to your static folder under styles.css */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #fff; /* Example color */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url('../images/2_girls.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 500px 20px;
+    color: #fff;
+}
+
+
+
+
+
+.hero h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 1.5em;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #000; /* Example color */
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.cta-button:hover {
+    background-color: #444; /* Darken on hover */
+}
+
+footer {
+    background-color: #f4f4f4; /* Example color */
+    padding: 20px;
+    text-align: center;
+}
+
+
+.about-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.about-container h1, .about-container h2 {
+    color: #333;
+}
+
+.about-container p {
+    line-height: 1.6;
+    color: #666;
+}
+
