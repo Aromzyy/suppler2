@@ -10,7 +10,7 @@ means = [0.485, 0.456, 0.406]
 stds = [0.229, 0.224, 0.225]
 
 # Load CSV file
-csv_file = '/Users/aromaatieno/Downloads/Capstone_Suppler_App 2/data_science/DDI_Dataset/filtered_data.csv'
+csv_file = 'filtered_data1.csv'
 data = pd.read_csv(csv_file)
 
 # Extract unique disease labels from the 'disease' column

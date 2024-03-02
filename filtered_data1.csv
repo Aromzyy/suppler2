@@ -1,0 +1,464 @@
+Unnamed: 0,DDI_ID,DDI_file,skin_tone,malignant,disease
+2.0,3.0,000003.png,56,1,mycosis-fungoides
+3.0,4.0,000004.png,56,1,squamous-cell-carcinoma-in-situ
+4.0,5.0,000005.png,12,1,basal-cell-carcinoma
+15.0,16.0,000016.png,56,1,mycosis-fungoides
+16.0,17.0,000017.png,56,1,mycosis-fungoides
+17.0,18.0,000018.png,56,1,mycosis-fungoides
+18.0,19.0,000019.png,56,1,mycosis-fungoides
+19.0,20.0,000020.png,56,1,mycosis-fungoides
+20.0,21.0,000021.png,56,1,mycosis-fungoides
+21.0,22.0,000022.png,56,1,mycosis-fungoides
+22.0,23.0,000023.png,56,1,mycosis-fungoides
+23.0,24.0,000024.png,56,1,mycosis-fungoides
+25.0,26.0,000026.png,56,1,mycosis-fungoides
+26.0,27.0,000027.png,56,1,mycosis-fungoides
+27.0,28.0,000028.png,56,1,mycosis-fungoides
+28.0,29.0,000029.png,56,1,mycosis-fungoides
+29.0,30.0,000030.png,56,1,mycosis-fungoides
+30.0,31.0,000031.png,56,1,mycosis-fungoides
+31.0,32.0,000032.png,56,1,mycosis-fungoides
+32.0,33.0,000033.png,56,1,mycosis-fungoides
+33.0,34.0,000034.png,56,1,mycosis-fungoides
+34.0,35.0,000035.png,56,1,mycosis-fungoides
+35.0,36.0,000036.png,34,0,melanocytic-nevi
+36.0,37.0,000037.png,12,1,basal-cell-carcinoma
+39.0,40.0,000040.png,12,1,squamous-cell-carcinoma-in-situ
+41.0,42.0,000042.png,12,0,melanocytic-nevi
+45.0,46.0,000046.png,12,0,melanocytic-nevi
+46.0,47.0,000047.png,12,0,melanocytic-nevi
+47.0,48.0,000048.png,12,0,melanocytic-nevi
+48.0,49.0,000049.png,12,0,melanocytic-nevi
+50.0,51.0,000051.png,12,0,melanocytic-nevi
+58.0,59.0,000059.png,56,0,verruca-vulgaris
+63.0,64.0,000064.png,34,0,melanocytic-nevi
+64.0,65.0,000065.png,56,1,mycosis-fungoides
+65.0,66.0,000066.png,56,1,mycosis-fungoides
+67.0,68.0,000068.png,56,1,mycosis-fungoides
+68.0,69.0,000069.png,56,1,mycosis-fungoides
+73.0,74.0,000074.png,12,1,squamous-cell-carcinoma-in-situ
+74.0,75.0,000075.png,56,0,epidermal-cyst
+75.0,76.0,000076.png,56,0,verruca-vulgaris
+78.0,79.0,000079.png,56,0,melanocytic-nevi
+79.0,80.0,000080.png,56,0,melanocytic-nevi
+81.0,82.0,000082.png,34,0,seborrheic-keratosis
+82.0,83.0,000083.png,56,0,epidermal-cyst
+84.0,85.0,000085.png,56,1,mycosis-fungoides
+85.0,86.0,000086.png,56,1,mycosis-fungoides
+87.0,88.0,000088.png,56,0,melanocytic-nevi
+88.0,89.0,000089.png,56,0,verruca-vulgaris
+90.0,91.0,000091.png,56,0,seborrheic-keratosis
+91.0,92.0,000092.png,56,0,melanocytic-nevi
+97.0,98.0,000098.png,34,0,melanocytic-nevi
+98.0,99.0,000099.png,34,0,melanocytic-nevi
+99.0,100.0,000100.png,34,0,melanocytic-nevi
+100.0,101.0,000101.png,56,0,melanocytic-nevi
+102.0,103.0,000103.png,56,0,epidermal-cyst
+103.0,104.0,000104.png,56,0,seborrheic-keratosis
+104.0,105.0,000105.png,56,0,seborrheic-keratosis
+108.0,109.0,000109.png,56,0,melanocytic-nevi
+109.0,110.0,000110.png,34,0,melanocytic-nevi
+110.0,111.0,000111.png,56,0,seborrheic-keratosis
+113.0,114.0,000114.png,56,0,seborrheic-keratosis
+114.0,115.0,000115.png,56,0,verruca-vulgaris
+115.0,116.0,000116.png,56,0,melanocytic-nevi
+116.0,117.0,000117.png,34,0,verruca-vulgaris
+119.0,120.0,000120.png,56,0,melanocytic-nevi
+120.0,121.0,000121.png,56,0,melanocytic-nevi
+123.0,124.0,000124.png,56,0,epidermal-cyst
+128.0,129.0,000129.png,56,0,seborrheic-keratosis
+130.0,131.0,000131.png,56,0,verruca-vulgaris
+142.0,143.0,000143.png,56,0,verruca-vulgaris
+143.0,144.0,000144.png,56,0,epidermal-cyst
+144.0,145.0,000145.png,56,0,melanocytic-nevi
+149.0,150.0,000150.png,56,0,epidermal-cyst
+151.0,152.0,000152.png,56,0,melanocytic-nevi
+152.0,153.0,000153.png,56,0,seborrheic-keratosis
+154.0,155.0,000155.png,56,0,melanocytic-nevi
+155.0,156.0,000156.png,56,0,epidermal-cyst
+156.0,157.0,000157.png,56,0,verruca-vulgaris
+157.0,158.0,000158.png,56,1,squamous-cell-carcinoma-in-situ
+158.0,159.0,000159.png,56,0,melanocytic-nevi
+159.0,160.0,000160.png,56,0,seborrheic-keratosis
+165.0,166.0,000166.png,56,1,squamous-cell-carcinoma-in-situ
+167.0,168.0,000168.png,56,0,seborrheic-keratosis
+171.0,172.0,000172.png,56,0,seborrheic-keratosis
+173.0,174.0,000174.png,56,0,seborrheic-keratosis
+176.0,177.0,000177.png,56,0,verruca-vulgaris
+177.0,178.0,000178.png,56,0,seborrheic-keratosis
+179.0,180.0,000180.png,56,0,seborrheic-keratosis
+181.0,182.0,000182.png,56,0,melanocytic-nevi
+182.0,183.0,000183.png,56,0,melanocytic-nevi
+183.0,184.0,000184.png,34,0,melanocytic-nevi
+188.0,189.0,000189.png,34,0,melanocytic-nevi
+190.0,191.0,000191.png,56,0,melanocytic-nevi
+191.0,192.0,000192.png,56,0,seborrheic-keratosis
+192.0,193.0,000193.png,56,0,verruca-vulgaris
+193.0,194.0,000194.png,34,0,melanocytic-nevi
+194.0,195.0,000195.png,56,0,melanocytic-nevi
+195.0,196.0,000196.png,56,0,verruca-vulgaris
+196.0,197.0,000197.png,56,0,melanocytic-nevi
+200.0,201.0,000201.png,56,0,seborrheic-keratosis
+202.0,203.0,000203.png,56,0,seborrheic-keratosis
+203.0,204.0,000204.png,56,0,verruca-vulgaris
+204.0,205.0,000205.png,56,0,melanocytic-nevi
+205.0,206.0,000206.png,56,0,melanocytic-nevi
+206.0,207.0,000207.png,56,0,melanocytic-nevi
+208.0,209.0,000209.png,56,0,verruca-vulgaris
+209.0,210.0,000210.png,56,0,epidermal-cyst
+210.0,211.0,000211.png,56,0,epidermal-cyst
+220.0,221.0,000221.png,56,0,epidermal-cyst
+221.0,222.0,000222.png,34,0,melanocytic-nevi
+222.0,223.0,000223.png,56,0,verruca-vulgaris
+223.0,224.0,000224.png,34,0,seborrheic-keratosis
+225.0,226.0,000226.png,56,0,seborrheic-keratosis
+226.0,227.0,000227.png,56,0,melanocytic-nevi
+228.0,229.0,000229.png,56,0,epidermal-cyst
+230.0,231.0,000231.png,56,0,verruca-vulgaris
+232.0,233.0,000233.png,56,0,verruca-vulgaris
+234.0,235.0,000235.png,56,0,epidermal-cyst
+236.0,237.0,000237.png,56,0,seborrheic-keratosis
+237.0,238.0,000238.png,56,0,melanocytic-nevi
+238.0,239.0,000239.png,56,0,epidermal-cyst
+240.0,241.0,000241.png,56,0,verruca-vulgaris
+246.0,247.0,000247.png,56,0,seborrheic-keratosis
+247.0,248.0,000248.png,56,0,epidermal-cyst
+250.0,251.0,000251.png,56,0,verruca-vulgaris
+251.0,252.0,000252.png,12,0,epidermal-cyst
+252.0,253.0,000253.png,12,0,verruca-vulgaris
+253.0,254.0,000254.png,12,0,verruca-vulgaris
+254.0,255.0,000255.png,12,0,verruca-vulgaris
+255.0,256.0,000256.png,12,0,verruca-vulgaris
+256.0,257.0,000257.png,12,0,verruca-vulgaris
+257.0,258.0,000258.png,12,0,verruca-vulgaris
+265.0,266.0,000266.png,12,0,melanocytic-nevi
+266.0,267.0,000267.png,12,0,melanocytic-nevi
+267.0,268.0,000268.png,12,0,melanocytic-nevi
+268.0,269.0,000269.png,12,0,melanocytic-nevi
+269.0,270.0,000270.png,12,0,melanocytic-nevi
+270.0,271.0,000271.png,12,0,melanocytic-nevi
+271.0,272.0,000272.png,12,0,melanocytic-nevi
+272.0,273.0,000273.png,12,0,melanocytic-nevi
+273.0,274.0,000274.png,12,0,melanocytic-nevi
+274.0,275.0,000275.png,12,0,melanocytic-nevi
+275.0,276.0,000276.png,12,0,melanocytic-nevi
+276.0,277.0,000277.png,12,0,melanocytic-nevi
+277.0,278.0,000278.png,12,0,melanocytic-nevi
+278.0,279.0,000279.png,12,0,melanocytic-nevi
+279.0,280.0,000280.png,12,0,melanocytic-nevi
+280.0,281.0,000281.png,12,0,melanocytic-nevi
+281.0,282.0,000282.png,12,0,melanocytic-nevi
+282.0,283.0,000283.png,12,0,melanocytic-nevi
+283.0,284.0,000284.png,12,0,melanocytic-nevi
+284.0,285.0,000285.png,12,0,melanocytic-nevi
+285.0,286.0,000286.png,12,0,melanocytic-nevi
+286.0,287.0,000287.png,12,0,melanocytic-nevi
+287.0,288.0,000288.png,12,0,melanocytic-nevi
+288.0,289.0,000289.png,12,1,basal-cell-carcinoma
+289.0,290.0,000290.png,12,1,basal-cell-carcinoma
+290.0,291.0,000291.png,12,1,basal-cell-carcinoma
+291.0,292.0,000292.png,12,1,basal-cell-carcinoma
+292.0,293.0,000293.png,12,1,basal-cell-carcinoma
+293.0,294.0,000294.png,12,1,squamous-cell-carcinoma-in-situ
+294.0,295.0,000295.png,12,1,squamous-cell-carcinoma-in-situ
+295.0,296.0,000296.png,12,1,squamous-cell-carcinoma-in-situ
+296.0,297.0,000297.png,12,1,squamous-cell-carcinoma-in-situ
+297.0,298.0,000298.png,12,1,squamous-cell-carcinoma-in-situ
+298.0,299.0,000299.png,12,1,squamous-cell-carcinoma-in-situ
+299.0,300.0,000300.png,12,1,squamous-cell-carcinoma-in-situ
+300.0,301.0,000301.png,12,1,squamous-cell-carcinoma-in-situ
+301.0,302.0,000302.png,12,1,squamous-cell-carcinoma-in-situ
+302.0,303.0,000303.png,12,0,verruca-vulgaris
+304.0,305.0,000305.png,12,0,melanocytic-nevi
+305.0,306.0,000306.png,12,0,melanocytic-nevi
+306.0,307.0,000307.png,12,0,melanocytic-nevi
+307.0,308.0,000308.png,12,0,melanocytic-nevi
+308.0,309.0,000309.png,12,0,melanocytic-nevi
+309.0,310.0,000310.png,12,0,melanocytic-nevi
+310.0,311.0,000311.png,12,0,melanocytic-nevi
+311.0,312.0,000312.png,12,0,verruca-vulgaris
+312.0,313.0,000313.png,12,0,verruca-vulgaris
+315.0,316.0,000316.png,12,0,melanocytic-nevi
+316.0,317.0,000317.png,12,0,melanocytic-nevi
+317.0,318.0,000318.png,12,0,melanocytic-nevi
+318.0,319.0,000319.png,12,0,epidermal-cyst
+319.0,320.0,000320.png,12,0,melanocytic-nevi
+320.0,321.0,000321.png,12,0,melanocytic-nevi
+321.0,322.0,000322.png,12,0,melanocytic-nevi
+322.0,323.0,000323.png,12,0,melanocytic-nevi
+323.0,324.0,000324.png,12,0,melanocytic-nevi
+324.0,325.0,000325.png,12,0,epidermal-cyst
+325.0,326.0,000326.png,12,0,epidermal-cyst
+326.0,327.0,000327.png,12,0,epidermal-cyst
+327.0,328.0,000328.png,12,0,melanocytic-nevi
+328.0,329.0,000329.png,12,0,seborrheic-keratosis
+329.0,330.0,000330.png,12,0,seborrheic-keratosis
+330.0,331.0,000331.png,12,0,seborrheic-keratosis
+331.0,332.0,000332.png,12,0,seborrheic-keratosis
+336.0,337.0,000337.png,12,0,verruca-vulgaris
+337.0,338.0,000338.png,12,0,verruca-vulgaris
+338.0,339.0,000339.png,12,0,verruca-vulgaris
+339.0,340.0,000340.png,12,0,verruca-vulgaris
+340.0,341.0,000341.png,12,0,verruca-vulgaris
+341.0,342.0,000342.png,12,0,verruca-vulgaris
+342.0,343.0,000343.png,12,0,verruca-vulgaris
+343.0,344.0,000344.png,12,0,verruca-vulgaris
+344.0,345.0,000345.png,12,0,verruca-vulgaris
+345.0,346.0,000346.png,12,0,verruca-vulgaris
+346.0,347.0,000347.png,12,0,verruca-vulgaris
+347.0,348.0,000348.png,12,0,verruca-vulgaris
+348.0,349.0,000349.png,12,0,verruca-vulgaris
+349.0,350.0,000350.png,12,0,verruca-vulgaris
+350.0,351.0,000351.png,12,0,verruca-vulgaris
+351.0,352.0,000352.png,12,0,verruca-vulgaris
+352.0,353.0,000353.png,12,0,verruca-vulgaris
+354.0,355.0,000355.png,12,0,seborrheic-keratosis
+355.0,356.0,000356.png,12,0,epidermal-cyst
+356.0,357.0,000357.png,12,0,seborrheic-keratosis
+357.0,358.0,000358.png,12,0,seborrheic-keratosis
+359.0,360.0,000360.png,12,0,epidermal-cyst
+360.0,361.0,000361.png,12,0,epidermal-cyst
+361.0,362.0,000362.png,34,0,seborrheic-keratosis
+362.0,363.0,000363.png,34,0,seborrheic-keratosis
+363.0,364.0,000364.png,12,1,squamous-cell-carcinoma-in-situ
+364.0,365.0,000365.png,12,0,epidermal-cyst
+366.0,367.0,000367.png,12,1,mycosis-fungoides
+367.0,368.0,000368.png,12,1,mycosis-fungoides
+368.0,369.0,000369.png,12,1,mycosis-fungoides
+395.0,396.0,000396.png,12,0,seborrheic-keratosis
+407.0,408.0,000408.png,12,1,squamous-cell-carcinoma-in-situ
+408.0,409.0,000409.png,12,1,squamous-cell-carcinoma-in-situ
+409.0,410.0,000410.png,12,1,squamous-cell-carcinoma-in-situ
+410.0,411.0,000411.png,12,0,epidermal-cyst
+411.0,412.0,000412.png,12,0,epidermal-cyst
+412.0,413.0,000413.png,12,0,epidermal-cyst
+413.0,414.0,000414.png,12,0,epidermal-cyst
+414.0,415.0,000415.png,12,0,seborrheic-keratosis
+415.0,416.0,000416.png,12,0,seborrheic-keratosis
+416.0,417.0,000417.png,12,0,seborrheic-keratosis
+417.0,418.0,000418.png,12,0,seborrheic-keratosis
+418.0,419.0,000419.png,12,0,seborrheic-keratosis
+424.0,425.0,000425.png,12,0,seborrheic-keratosis
+425.0,426.0,000426.png,12,0,seborrheic-keratosis
+426.0,427.0,000427.png,12,0,seborrheic-keratosis
+427.0,428.0,000428.png,12,0,epidermal-cyst
+428.0,429.0,000429.png,12,0,seborrheic-keratosis
+429.0,430.0,000430.png,12,0,epidermal-cyst
+430.0,431.0,000431.png,12,0,epidermal-cyst
+431.0,432.0,000432.png,12,0,seborrheic-keratosis
+432.0,433.0,000433.png,12,0,seborrheic-keratosis
+433.0,434.0,000434.png,12,0,seborrheic-keratosis
+434.0,435.0,000435.png,12,0,seborrheic-keratosis
+437.0,438.0,000438.png,12,0,melanocytic-nevi
+438.0,439.0,000439.png,12,0,melanocytic-nevi
+444.0,445.0,000445.png,34,0,seborrheic-keratosis
+446.0,447.0,000447.png,34,0,melanocytic-nevi
+448.0,449.0,000449.png,34,0,seborrheic-keratosis
+449.0,450.0,000450.png,34,0,epidermal-cyst
+451.0,452.0,000452.png,34,0,melanocytic-nevi
+452.0,453.0,000453.png,34,0,epidermal-cyst
+453.0,454.0,000454.png,34,0,melanocytic-nevi
+456.0,457.0,000457.png,34,0,melanocytic-nevi
+457.0,458.0,000458.png,34,0,melanocytic-nevi
+458.0,459.0,000459.png,34,0,melanocytic-nevi
+459.0,460.0,000460.png,34,0,melanocytic-nevi
+461.0,462.0,000462.png,34,0,melanocytic-nevi
+464.0,465.0,000465.png,34,0,melanocytic-nevi
+465.0,466.0,000466.png,34,0,melanocytic-nevi
+473.0,474.0,000474.png,34,1,mycosis-fungoides
+474.0,475.0,000475.png,34,0,melanocytic-nevi
+475.0,476.0,000476.png,34,0,seborrheic-keratosis
+477.0,478.0,000478.png,34,1,basal-cell-carcinoma
+478.0,479.0,000479.png,34,0,epidermal-cyst
+480.0,481.0,000481.png,34,1,basal-cell-carcinoma
+481.0,482.0,000482.png,34,0,seborrheic-keratosis
+483.0,484.0,000484.png,34,1,basal-cell-carcinoma
+485.0,486.0,000486.png,34,0,verruca-vulgaris
+486.0,487.0,000487.png,34,1,mycosis-fungoides
+487.0,488.0,000488.png,34,1,basal-cell-carcinoma
+493.0,494.0,000494.png,34,1,squamous-cell-carcinoma-in-situ
+494.0,495.0,000495.png,34,0,melanocytic-nevi
+497.0,498.0,000498.png,34,0,melanocytic-nevi
+498.0,499.0,000499.png,34,0,melanocytic-nevi
+499.0,500.0,000500.png,34,1,squamous-cell-carcinoma-in-situ
+500.0,501.0,000501.png,34,1,basal-cell-carcinoma
+502.0,503.0,000503.png,34,0,seborrheic-keratosis
+503.0,504.0,000504.png,34,0,melanocytic-nevi
+505.0,506.0,000506.png,34,0,verruca-vulgaris
+510.0,511.0,000511.png,34,1,basal-cell-carcinoma
+511.0,512.0,000512.png,34,1,basal-cell-carcinoma
+515.0,516.0,000516.png,34,0,melanocytic-nevi
+518.0,519.0,000519.png,34,1,basal-cell-carcinoma
+519.0,520.0,000520.png,34,1,squamous-cell-carcinoma-in-situ
+520.0,521.0,000521.png,34,1,squamous-cell-carcinoma-in-situ
+523.0,524.0,000524.png,34,0,epidermal-cyst
+525.0,526.0,000526.png,34,0,melanocytic-nevi
+528.0,529.0,000529.png,34,0,melanocytic-nevi
+533.0,534.0,000534.png,34,0,seborrheic-keratosis
+536.0,537.0,000537.png,34,1,basal-cell-carcinoma
+539.0,540.0,000540.png,34,0,verruca-vulgaris
+540.0,541.0,000541.png,34,1,basal-cell-carcinoma
+541.0,542.0,000542.png,34,0,seborrheic-keratosis
+542.0,543.0,000543.png,34,1,basal-cell-carcinoma
+545.0,546.0,000546.png,34,1,squamous-cell-carcinoma-in-situ
+547.0,548.0,000548.png,34,0,melanocytic-nevi
+550.0,551.0,000551.png,34,1,basal-cell-carcinoma
+551.0,552.0,000552.png,34,1,basal-cell-carcinoma
+553.0,554.0,000554.png,34,1,basal-cell-carcinoma
+554.0,555.0,000555.png,34,1,basal-cell-carcinoma
+556.0,557.0,000557.png,34,1,basal-cell-carcinoma
+557.0,558.0,000558.png,34,1,basal-cell-carcinoma
+558.0,559.0,000559.png,34,1,squamous-cell-carcinoma-in-situ
+559.0,560.0,000560.png,34,1,basal-cell-carcinoma
+562.0,563.0,000563.png,34,0,melanocytic-nevi
+563.0,564.0,000564.png,34,1,squamous-cell-carcinoma-in-situ
+564.0,565.0,000565.png,34,1,basal-cell-carcinoma
+565.0,566.0,000566.png,34,1,basal-cell-carcinoma
+568.0,569.0,000569.png,34,0,seborrheic-keratosis
+570.0,571.0,000571.png,34,0,melanocytic-nevi
+573.0,574.0,000574.png,34,1,squamous-cell-carcinoma-in-situ
+574.0,575.0,000575.png,34,1,squamous-cell-carcinoma-in-situ
+578.0,579.0,000579.png,34,1,basal-cell-carcinoma
+579.0,580.0,000580.png,34,0,melanocytic-nevi
+581.0,582.0,000582.png,34,1,basal-cell-carcinoma
+582.0,583.0,000583.png,34,1,basal-cell-carcinoma
+587.0,588.0,000588.png,34,1,basal-cell-carcinoma
+588.0,589.0,000589.png,34,1,basal-cell-carcinoma
+589.0,590.0,000590.png,34,1,basal-cell-carcinoma
+591.0,592.0,000592.png,34,1,squamous-cell-carcinoma-in-situ
+594.0,595.0,000595.png,34,0,seborrheic-keratosis
+596.0,597.0,000597.png,34,0,verruca-vulgaris
+597.0,598.0,000598.png,34,1,basal-cell-carcinoma
+600.0,601.0,000601.png,34,0,seborrheic-keratosis
+601.0,602.0,000602.png,34,0,seborrheic-keratosis
+604.0,605.0,000605.png,34,0,seborrheic-keratosis
+605.0,606.0,000606.png,34,0,verruca-vulgaris
+607.0,608.0,000608.png,34,0,seborrheic-keratosis
+609.0,610.0,000610.png,34,1,mycosis-fungoides
+613.0,614.0,000614.png,34,0,melanocytic-nevi
+614.0,615.0,000615.png,34,0,melanocytic-nevi
+615.0,616.0,000616.png,34,1,basal-cell-carcinoma
+619.0,620.0,000620.png,34,0,melanocytic-nevi
+622.0,623.0,000623.png,34,0,seborrheic-keratosis
+623.0,624.0,000624.png,34,0,melanocytic-nevi
+625.0,626.0,000626.png,34,0,melanocytic-nevi
+626.0,627.0,000627.png,34,0,epidermal-cyst
+627.0,628.0,000628.png,34,0,melanocytic-nevi
+628.0,629.0,000629.png,34,0,melanocytic-nevi
+629.0,630.0,000630.png,34,1,basal-cell-carcinoma
+630.0,631.0,000631.png,34,0,melanocytic-nevi
+631.0,632.0,000632.png,34,0,melanocytic-nevi
+632.0,633.0,000633.png,34,1,basal-cell-carcinoma
+635.0,636.0,000636.png,34,0,melanocytic-nevi
+636.0,637.0,000637.png,34,1,basal-cell-carcinoma
+637.0,638.0,000638.png,34,0,melanocytic-nevi
+639.0,640.0,000640.png,34,0,verruca-vulgaris
+640.0,641.0,000641.png,34,0,melanocytic-nevi
+641.0,642.0,000642.png,34,0,melanocytic-nevi
+642.0,643.0,000643.png,34,0,melanocytic-nevi
+643.0,644.0,000644.png,34,1,basal-cell-carcinoma
+644.0,645.0,000645.png,34,0,melanocytic-nevi
+645.0,646.0,000646.png,34,0,melanocytic-nevi
+647.0,648.0,000648.png,34,1,basal-cell-carcinoma
+652.0,653.0,000653.png,34,0,melanocytic-nevi
+655.0,656.0,000656.png,34,1,basal-cell-carcinoma
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_96.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_100.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_69.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_55.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_41.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_82.png,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_95.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_56.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_42.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_81.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_54.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_40.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_97.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_68.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_83.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_53.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_47.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_43.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_90.png,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_84.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_57.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_80.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_94.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_85.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_78.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_52.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_91.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_46.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_44.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_87.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_50.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_93.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_8.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_21.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_35.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_37.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_23.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_36.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_22.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_86.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_45.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_51.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_92.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_79.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_9.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_30.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_24.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_18.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_20.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_34.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_2.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_17.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_32.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_26.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_27.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_19.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_33.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_25.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_31.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_15.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_11.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_4.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_14.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_16.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_3.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_28.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_10.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_5.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_38.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_29.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_7.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_1.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_12.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_39.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_60.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_74.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_13.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_6.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_48.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_88.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_72.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_66.png,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_99.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_49.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_61.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_75.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_89.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_77.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_63.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_76.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_62.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_59.png,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_65.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_98.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_73.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_67.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_71.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_70.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_64.jpg,light,0,normal skin
+,,/content/drive/MyDrive/Capstone Dataset/images/normal_58.jpg,light,0,normal skin
