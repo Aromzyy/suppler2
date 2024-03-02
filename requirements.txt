@@ -1,7 +1,7 @@
 absl-py==1.4.0
 adal==1.2.7
 alembic==1.13.1
-anaconda-client==1.7.2
+anaconda-client==1.6.9
 anaconda-navigator==2.0.3
 anaconda-project==0.8.3
 appdirs==1.4.4
