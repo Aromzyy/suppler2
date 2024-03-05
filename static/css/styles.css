@@ -80,3 +80,31 @@ footer {
     color: #666;
 }
 
+.home-arrow {
+    position: absolute; /* Positions the arrow relative to its nearest positioned ancestor */
+    left: 20px; /* Distance from the left edge of the page */
+    top: 20px; /* Adjusts the vertical position */
+    display: inline-block;
+    text-decoration: none; /* Removes the underline from the link */
+    font-size: 24px; /* Adjusts the size of the arrow */
+    margin: 10px 0; /* Adds some space around the arrow */
+    color: #000; /* Sets the arrow color, change as needed */
+    /* Add additional styling as needed */
+}
+
+.faq-container {
+    margin: 20px;
+    padding: 20px;
+}
+
+.faq {
+    margin-bottom: 20px;
+}
+
+.faq h2 {
+    color: #333;
+}
+
+.faq p {
+    color: #666;
+}

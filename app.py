@@ -90,5 +90,10 @@ def about():
 def skin_conditions():
     return render_template('skin_conditions.html')
 
+
+@app.route('/FAQs')
+def FAQs():
+    return render_template('FAQs.html')
+
 if __name__ == '__main__':
     app.run(debug=True)

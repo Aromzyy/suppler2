@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQs - Skin Condition Detection App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <!-- Add other head elements like favicon, external CSS or JS if needed -->
+</head>
+<body>
+    <nav>
+        <a href="/" class="home-arrow">← Home</a>
+        <!-- Other Navigation bar content -->
+    </nav>
+
+    <main class="faq-container">
+        <h1>Frequently Asked Questions (FAQs)</h1>
+        
+        <section class="faq">
+            <h2>How does the app detect skin conditions?</h2>
+            <p>
+                Our app uses advanced machine learning algorithms trained on a diverse dataset of skin conditions. By analyzing images of the skin condition, it predicts possible conditions based on patterns recognized during its training.
+            </p>
+        </section>
+        
+        <section class="faq">
+            <h2>Is the app accurate?</h2>
+            <p>
+                While our app is highly accurate and continuously improving, it's designed to offer preliminary information and cannot replace a professional medical diagnosis. We recommend consulting with a dermatologist for an accurate diagnosis.
+            </p>
+        </section>
+
+        <section class="faq">
+            <h2>How do I use the app?</h2>
+            <p>
+                Simply upload a clear picture of the affected skin area through our app. The machine learning model will analyze the image and provide you with a list of possible conditions, including information about them.
+            </p>
+        </section>
+
+        <section class="faq">
+            <h2>What about my privacy?</h2>
+            <p>
+                We prioritize user privacy. Images and data provided to the app are encrypted and used solely for condition detection purposes. We do not share your data without your explicit consent.
+            </p>
+        </section>
+
+        <!-- Add more sections for additional questions and answers as needed -->
+    </main>
+
+    <footer>
+        <!-- Footer content: could include copyright notice, privacy policy, social media links, etc. -->
+    </footer>
+</body>
+</html>

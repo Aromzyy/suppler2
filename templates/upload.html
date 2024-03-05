@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Image Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,12 +91,21 @@
     </style>
 </head>
 <body>
+
+    <nav>
+        <a href="/" class="home-arrow">← Home</a>
+        <!-- Other Navigation bar content -->
+    </nav>
+
     <div class="container">
         <h1>Upload an Image for Prediction</h1>
+        
+
         <form action="/predict" method="post" enctype="multipart/form-data">
-            <input type="file" name="image" required>
+            <input type="file" name="image" accept="image/*" capture="environment" required>
             <input type="submit" value="Upload">
         </form>
+        
 
         {% if predictions %}
         <div class="predictions">
